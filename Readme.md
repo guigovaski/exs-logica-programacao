@@ -1,4 +1,4 @@
-# Alguns exercícios de um trabalho da matéria de Lógica de Programação e Algoritmos que eu concluí mês passado
+# Alguns exercícios de um trabalho da matéria de Lógica de Programação e Algoritmos da faculdade
 
 ## Exercício 1 
 Programa que retorna a categoria de peso de um lutador, com base no peso fornecido pelo mesmo
